@@ -6,7 +6,7 @@ It covers the steps from data feeding to model deployment using `tensorflow-serv
 
 ## requirements:
 - `curl`
-- `Python>=3.4`
+- `python>=3.4`
 - `docker`
 
 ## set-up the environment
