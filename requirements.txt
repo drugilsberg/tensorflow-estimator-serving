@@ -1,6 +1,6 @@
 numpy==1.15.2
 pandas==0.23.4
-tensorflow==1.10.1
+tensorflow~>1.12.1
 tensor2tensor==1.9.0
 ipykernel==5.0.0
 jupyter==1.0.0
